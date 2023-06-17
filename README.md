@@ -5,10 +5,7 @@
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkoda-git&count_bg=%23001AD3&title_bg=%23000000&icon=python.svg&icon_color=%23FFFFFF&title=Hello%21&edge_flat=true)](https://hits.seeyoufarm.com) 
   
   ![Hello](https://github-readme-stats.vercel.app/api?username=koda-git&count_private=true&show_icons=true&theme=tokyonight)<br>
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=koda-git&count_private=true&layout=compact&theme=tokyonight)
-  
-  ## [My Archived Repositories](https://github.com/410-dev-archive)
-  
+ 
 </div>
 
 
