@@ -31,6 +31,7 @@
   <img style="border-radius:0px" src = "https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/></a>
   <img style="border-radius:0px" src = "https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white"/></a>
   <img style="border-radius:0px" src = "https://img.shields.io/badge/Arch-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white"/></a>
+  <img style="border-radius:0px" src = "https://img.shields.io/badge/Gentoo-54487A?style=for-the-badge&logo=gentoo&logoColor=white"/></a>
   <img style="border-radius:0px" src = "https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white"/></a>
   <img style="border-radius:0px" src = "https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0"/></a>
   <img style="border-radius:0px" src = "https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/></a>
