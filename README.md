@@ -1,11 +1,7 @@
 <div align="center">
   
   # Top page
-  
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkoda-git&count_bg=%23001AD3&title_bg=%23000000&icon=python.svg&icon_color=%23FFFFFF&title=Hello%21&edge_flat=true)](https://hits.seeyoufarm.com) 
-  
-  ![Hello](https://github-readme-stats.vercel.app/api?username=koda-git&count_private=true&show_icons=true&theme=tokyonight)<br>
- 
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkoda-git&count_bg=%2375E123&title_bg=%23292828&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 </div>
 
 
