@@ -33,7 +33,7 @@
   <img style="border-radius:0px" src = "https://img.shields.io/badge/Arch-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white"/></a>
   <img style="border-radius:0px" src = "https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white"/></a>
   <img style="border-radius:0px" src = "https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0"/></a>
-  <ing style="border-radius:0px" src = "https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/></a>
+  <img style="border-radius:0px" src = "https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/></a>
   <img style="border-radius:0px" src = "https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/></a>
   <img style="border-radius:0px" src = "https://img.shields.io/badge/Oracle%20OCI-F80000?style=for-the-badge&logo=oracle&logoColor=white"/></a>
 
