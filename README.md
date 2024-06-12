@@ -14,7 +14,7 @@
 
 - 📫 You can reach me at **reachme@hewwo.ca**
 
-- 💻 Check out my configs: [🍎MacOS](https://github.com/koda-git/config-mac), [🐧Nix](https://github.com/koda-git/nix-config-t480s), [🛜Unraid]()
+- 💻 Check out my configs: [🍎MacOS](https://github.com/koda-git/config-mac), [🐧Nix](https://github.com/koda-git/nix-config-t480s), [🛜Unraid](), ~~[Awesomewm](https://github.com/koda-git/awesome)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
