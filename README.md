@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Koda</h1>
+<h1 align="center">Welcome to my github page, I'm Koda</h1>
 <h3 align="center">A passionate computer science student at @McMaster</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=koda-git&label=Profile%20views&color=0e75b6&style=flat" alt="koda-git" /> </p>
@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **tensorFlow, PyTorch, Rust**
 
-- 💬 Ask me about **linux, scripting and react!**
+- 💬 Ask me about **linux, computer hardware, scripting and react!**
 
 - 📫 How to reach me **reachme@hewwo.ca**
 
