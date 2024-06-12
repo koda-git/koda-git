@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Markdown Blogger](https://github.com/koda-git/mdblogger)
 
-- 🌱 I’m currently learning **tensorFlow, PyTorch, Rust**
+- 🌱 I’m currently learning **tensorFlow, PyTorch, Rust and expressJS**
 
 - 💬 Ask me about **linux, computer hardware, scripting and react!**
 
