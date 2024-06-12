@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **reachme@hewwo.ca**
 
-- ⚡ Fun fact **mrrow mrrp**
+- ⚡ Fun fact **meow mrrow mrrp**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
