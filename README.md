@@ -11,7 +11,7 @@
 
 - 💾 Interesting projects of mine that you might want to check out [📍Shuttletrak](https://github.com/koda-git/shuttletrak)
 
-- 📫 How to reach me **reachme@hewwo.ca**
+- 📫 You can reach me at **reachme@hewwo.ca**
 
 - ⚡ Fun fact **meow mrrow mrrp**
 
