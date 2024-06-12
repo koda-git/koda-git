@@ -3,6 +3,16 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=koda-git&label=Profile%20views&color=0e75b6&style=flat" alt="koda-git" /> </p>
 
+- 🔭 I’m currently working on [Markdown Blogger](https://github.com/koda-git/mdblogger)
+
+- 🌱 I’m currently learning **tensorFlow, PyTorch, Rust**
+
+- 💬 Ask me about **linux, scripting and react!**
+
+- 📫 How to reach me **reachme@hewwo.ca**
+
+- ⚡ Fun fact **mrrow mrrp**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
