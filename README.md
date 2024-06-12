@@ -10,7 +10,7 @@
 - 💬 Ask me about **linux, computer hardware, scripting and react!**
 
 - 💾 Interesting project(s) of mine that you might want to check out:
-  - [📍Shuttletrak](https://github.com/koda-git/shuttletrak) : Live shuttle tracker without the use of GPS or LTE by using Apple's FindMy
+  - [📍Shuttletrak](https://github.com/koda-git/shuttletrak) : Live shuttle tracker without the use of first party GPS or LTE by using Apple's FindMy
 
 - 📫 You can reach me at **reachme@hewwo.ca**
 
