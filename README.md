@@ -9,7 +9,8 @@
 
 - 💬 Ask me about **linux, computer hardware, scripting and react!**
 
-- 💾 Interesting project(s) of mine that you might want to check out [📍Shuttletrak](https://github.com/koda-git/shuttletrak)
+- 💾 Interesting project(s) of mine that you might want to check out:
+  - [📍Shuttletrak](https://github.com/koda-git/shuttletrak)
 
 - 📫 You can reach me at **reachme@hewwo.ca**
 
