@@ -17,6 +17,7 @@
 - 💻 Check out my configs: [🍎MacOS](https://github.com/koda-git/config-mac), [🐧Nix](https://github.com/koda-git/nix-config-t480s)
 
 <h3 align="left">Connect with me:</h3>
+WIP
 <p align="left">
 </p>
 
