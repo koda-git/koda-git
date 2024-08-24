@@ -28,3 +28,5 @@ WIP
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=koda-git&show_icons=true&locale=en&layout=compact" alt="koda-git" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=koda-git&show_icons=true&locale=en" alt="koda-git" /></p>
+
+<p>Profile picture: <a href="https://wallpapers.com/picture/russian-blue-cat-pictures-gtrml5zh80hjtdlo.html">Wallpaper by katarate</a> on Wallpapers.com</p>
