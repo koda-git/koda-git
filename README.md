@@ -21,9 +21,12 @@
   WIP
 </p>
 
-<h3 align="left">Hardware:</h3>
+<h3 align="left">Development Hardware:</h3>
 <p align="left">
-  **NVIDIA RTX 4070 Super**
+  Ryzen 7 5700X3D
+  64GB DDR4
+  NVIDIA RTX 4070 Super
+  M1 Macbook Air
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
