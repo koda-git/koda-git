@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=koda-git&label=Profile%20views&color=0e75b6&style=flat" alt="koda-git" /> </p>
 
-- 🔭 I’m currently working on [📝Markdown Blogger](https://github.com/koda-git/mdblogger), [🥐Crust](https://github.com/koda-git/crust), and *my portfolio*
+- 🔭 I’m currently working on [📝Markdown Blogger](https://github.com/koda-git/mdblogger), [🥐Crust](https://github.com/koda-git/crust), and [*my portfolio*](https://hewwo.ca)
 
 - 🌱 I’m currently learning **tensorFlow**, **PyTorch**, **Rust** and **NextJS**
 
