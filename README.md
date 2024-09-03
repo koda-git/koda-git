@@ -22,6 +22,7 @@
 </p>
 
 <h3 align="left">Development Hardware:</h3>
+
 - Ryzen 7 5700X3D
 - 64GB DDR4
 - NVIDIA RTX 4070 Super
