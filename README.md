@@ -18,7 +18,7 @@
 
 <h3 align="left">Connect with me:</h3>
 
-- 🌎 Check out my website: [Website](https://hewwo.ca)
+- 🌎 Check out my website: [hewwo.ca](https://hewwo.ca)
 
 <h3 align="left">Development Hardware:</h3>
 
