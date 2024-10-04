@@ -23,7 +23,7 @@
 
 <h3 align="left">Development Hardware:</h3>
 
-- Loque Ghost S1 
+- Loque Ghost S1 Custom PC
   - Ryzen 7 5700X3D
   - 64GB DDR4 3200Mhz
   - NVIDIA RTX 4070 Super 12GB
