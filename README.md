@@ -18,7 +18,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <p>Website: <a href="https://hewwo.ca">Porfolio Website</p>
+  <p>My website: <a href="https://hewwo.ca">hewwo.ca</p>
 </p>
 
 <h3 align="left">Development Hardware:</h3>
