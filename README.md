@@ -17,9 +17,7 @@
 - 💻 Check out my configs: [🍎MacOS](https://github.com/koda-git/config-mac), [🐧Nix](https://github.com/koda-git/nix-config-t480s)
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-  <p>My website: <a href="https://hewwo.ca">hewwo.ca</p>
-</p>
+- 🌎 Check out my website: [hewwo.ca](https://hewwo.ca)
 
 <h3 align="left">Development Hardware:</h3>
 
