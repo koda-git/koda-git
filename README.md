@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [📝Markdown Blogger](https://github.com/koda-git/mdblogger), [🥐Crust](https://github.com/koda-git/crust), and [*my portfolio*](https://hewwo.ca)
 
-- 🌱 I’m currently learning **tensorFlow**, **PyTorch**, **Rust** and **NextJS**
+- 🌱 I’m currently learning **Machine Learning**, **SciKit/Tensorflow**, **Rust** and **NextJS**
 
 - 💬 Ask me about **linux, computer hardware, scripting and react!**
 
