@@ -11,7 +11,7 @@
 
 - 💾 Interesting project(s) of mine that you might want to check out:
   - [📍Shuttletrak](https://github.com/koda-git/shuttletrak) : Live shuttle tracker without the use of first-party connections by exploiting Apple's FindMy network
-
+  - [🪙Alloy](https://github.com/koda-git/alloy) : A banking app created with Java aimed to unite all bank accounts into a simple interface
 - 📫 You can reach me at **reachme@hewwo.ca**
 
 - 💻 Check out my configs: [🍎MacOS](https://github.com/koda-git/config-mac), [🐧Nix](https://github.com/koda-git/nix-config-t480s)
