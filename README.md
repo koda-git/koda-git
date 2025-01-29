@@ -25,7 +25,7 @@
 - Loque Ghost S1 Custom PC
   - Ryzen 7 5700X3D
   - 64GB DDR4 
-  - NVIDIA RTX 4070 Super 12GB
+  - NVIDIA RTX 4070S 12GB
     
 - M1 Macbook Air
 
