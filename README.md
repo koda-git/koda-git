@@ -33,7 +33,6 @@
 - M1 MacBook Air
 --- 
 
-
 <h4 align="left">Programming Languages</h4>
 <p align="left">
   <a href="#"><img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/></a>
@@ -71,9 +70,6 @@
   <a href="#"><img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Rocket-000000?style=for-the-badge&logo=rocket&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=websocket&logoColor=white"/></a>
 </p>
 
 <h4 align="left">Operating Systems</h4>
@@ -81,26 +77,15 @@
   <a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/></a>
   <a href="#"><img src="https://img.shields.io/badge/NixOS-5277C3?style=for-the-badge&logo=nixos&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/RHEL-EE0000?style=for-the-badge&logo=redhat&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/FreeBSD-AB2B28?style=for-the-badge&logo=freebsd&logoColor=white"/></a>
 </p>
 
 <h4 align="left">Cloud & Monitoring</h4>
 <p align="left">
   <a href="#"><img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Oracle%20Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white"/></a>
 </p>
+---
 
-<h4 align="left">Developer Tools</h4>
-<p align="left">
-  <a href="#"><img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/screen-005f87?style=for-the-badge&logo=gnu&logoColor=white"/></a>
-</p>
  
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=koda-git&show_icons=true&locale=en&layout=compact" alt="koda-git" /></p>
