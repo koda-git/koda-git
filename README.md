@@ -1,5 +1,5 @@
 <h1 align="center">Welcome to my GitHub page, I'm Koda</h1>
-<h3 align="center">A passionate Computer Science student at <a href="https://mcmaster.ca">McMaster</a></h3>
+<h3 align="center">Computer Science @ <a href="https://mcmaster.ca">McMaster</a></h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=koda-git&label=Profile%20views&color=0e75b6&style=flat" alt="koda-git" />
