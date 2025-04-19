@@ -83,7 +83,6 @@
   <a href="#"><img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/></a>
 </p>
----
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=koda-git&show_icons=true&locale=en&layout=compact" alt="koda-git" /></p>
 
