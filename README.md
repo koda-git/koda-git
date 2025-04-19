@@ -1,9 +1,9 @@
 <h1 align="center">Welcome to my GitHub page, I'm Koda</h1>
 <h3 align="center">A Passionate Computer Science Undergrad. @ <a href="https://mcmaster.ca">McMaster</a></h3>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=koda-git&label=Profile%20views&color=0e75b6&style=flat" alt="koda-git" />
-</p>
+<div align="left">
+  <img src="https://komarev.com/ghpvc/?username=koda-git&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</div>
 
 - 🔭 I’m currently building [📝Markdown Blogger](https://github.com/koda-git/mdblogger), [🥐Crust](https://github.com/koda-git/crust), and [🌐My Website](https://hewwo.ca)
 
