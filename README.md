@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently building [📝Markdown Blogger](https://github.com/koda-git/mdblogger), [🥐Crust](https://github.com/koda-git/crust), and [🌐My Website](https://hewwo.ca)
 
-- 🌱 Actively learning **Machine Learning**, **Scikit-learn / TensorFlow**, **Rust**, and **Next.js**
+- 🌱 Actively learning **Machine Learning**, **Scikit-learn / TensorFlow**, **Rust**, and **Kubernetes (K3s)**
 
 - 💬 Ask me about **Linux**, **computer hardware**, **automation scripting**, or **React**
 
