@@ -31,7 +31,7 @@
   - NVIDIA RTX 4070 Super 12GB
 
 - M1 MacBook Air
-
+--- 
 <h4 align="left">Programming Languages</h4>
 <p align="left">
   <a href="#"><img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/></a>
