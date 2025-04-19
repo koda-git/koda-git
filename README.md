@@ -83,11 +83,12 @@
   <a href="#"><img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/></a>
 </p>
-
+---
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=koda-git&show_icons=true&locale=en&layout=compact" alt="koda-git" /></p>
 
 <!-- Not ready for GitHub grades yet — I get that! -->
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=koda-git&show_icons=true&locale=en" alt="koda-git" /></p> -->
+---
 
 <p>🖼️ Profile picture: <a href="https://wallpapers.com/picture/russian-blue-cat-pictures-gtrml5zh80hjtdlo.html">Wallpaper by katarate</a> on Wallpapers.com</p>
