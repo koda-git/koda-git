@@ -19,8 +19,8 @@
 
 <h3 align="left">Connect with me:</h3>
 
-- 🌎 Visit my website: [hewwo.ca](https://hewwo.ca)
-- 📝 Read my blog: [blog.hewwo.ca](https://blog.hewwo.ca)  
+- 🌎 Visit my website: [HERE](https://jaeho.me)
+- 📝 Read my blog: [HERE](https://blog.hewwo.ca)  
 - 📫 Reach me at **reachme@hewwo.ca**
 
 <h3 align="left">Development Hardware:</h3>
