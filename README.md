@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Linux**, **computer hardware**, **automation scripting**, or **React**
 
-- 💾 Projects worth checking out:
+- 💾 Finished Projects worth checking out:
   - [📍Shuttletrak](https://github.com/koda-git/shuttletrak): Real-time shuttle tracking via Apple’s FindMy BLE signals — no GPS or APIs required. A privacy-friendly hack using crowdsourced location data in a clever way.
   - [🪙Alloy](https://github.com/koda-git/alloy): Social banking prototype built during an hackathon sponsered by [RBC (Royal Bank of Canada)](https://www.rbcroyalbank.com). Unified multi-account interface with secure sessions, user-to-user transfers, and a modular Java backend.
 
