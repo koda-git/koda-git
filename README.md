@@ -21,7 +21,7 @@
 
 - 🌎 Visit my website: [jaeho.me](https://jaeho.me)
 - 📝 Read my blog: [blog.jaeho.me](https://blog.jaeho.me)  
-- 📫 Reach me at **reachme@hewwo.ca**
+- 📫 Reach me at **reachme@jaeho.me**
 
 <h3 align="left">Development Hardware:</h3>
 
