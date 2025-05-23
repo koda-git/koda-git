@@ -30,7 +30,7 @@
   - 64GB DDR4  
   - NVIDIA RTX 4070 Super 12GB
 
-- M1 MacBook Air
+- M4 MacBook Air
 --- 
 
 <h4 align="left">Programming Languages</h4>
